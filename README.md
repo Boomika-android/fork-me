@@ -24,6 +24,7 @@ I am an independent educator who creates meaningful projects to teach programmin
 # How Fork Works
 Here is the Fork Workflow...
 
+<!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <img src="GitHub Fork.gif" alt="GitHub Fork Workflow" />
 </p>
