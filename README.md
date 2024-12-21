@@ -29,6 +29,6 @@ Here is the Fork Workflow...
 </p>
 
 # So, Want to Learn More?
-Here is a complete guide([YouTube Video](https://www.youtube.com/watch?v=h8suY-Osn8Q)) to learn about GitHub Forking with examples
+Here is a complete guide([YouTube Video](https://www.youtube.com/watch?v=h8suY-Osn8Q)) to learn about GitHub Forking with some examples
 
 <a href="https://www.youtube.com/watch?v=h8suY-Osn8Q" title="How to Fork"><img src="GitHub%20Fork.png" alt="image" height="400px" width="500px"/></a>
